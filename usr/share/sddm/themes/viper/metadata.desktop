@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Simplicity
+Description=Simple SDDM theme
+Type=sddm-theme
+Author=isseigx
+Screenshot=screenshot.jpg
+License=GPL-3.0-or-later
+Version=25.09
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=simplicity
+Theme-API=2.0
+Website=https://gitlab.com/isseigx/simplicity-sddm-theme
+QtVersion=6
