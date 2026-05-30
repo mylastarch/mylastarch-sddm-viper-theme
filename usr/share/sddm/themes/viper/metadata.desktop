@@ -1,15 +1,15 @@
 [SddmGreeterTheme]
-Name=Simplicity
+Name=viper
 Description=Simple SDDM theme
 Type=sddm-theme
 Author=isseigx
 Screenshot=screenshot.jpg
 License=GPL-3.0-or-later
-Version=25.09
+Version=26.01
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Theme-Id=simplicity
+Theme-Id=viper
 Theme-API=2.0
 Website=https://gitlab.com/isseigx/simplicity-sddm-theme
 QtVersion=6
